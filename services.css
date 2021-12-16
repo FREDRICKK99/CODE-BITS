@@ -1,0 +1,228 @@
+#site-search {
+    height: 50px;
+    width: 456px;
+}
+
+.fred {
+    margin-top: 92px;
+}
+
+.open,
+.tel {
+    margin-top: 0px;
+    justify-content: right;
+}
+
+.btn2 {
+    width: 84.47px;
+    height: 56.32px;
+    background-color: black;
+    color: white;
+    margin-right: 0px;
+}
+
+#btn10 {
+    height: 56.32px;
+    width: 295.66px;
+}
+
+.door {
+    text-align: right;
+}
+
+.contact {
+    margin-top: 92px;
+}
+
+#search {
+    width: 456px;
+    height: 240px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.services {
+    margin-bottom: 60px;
+    margin-top: 92px;
+}
+
+.btn {
+    height: 36px;
+    width: 91px;
+    background-color: cornflowerblue;
+    border-radius: 6px;
+}
+
+.btw1 {
+    display: inline;
+}
+
+.list {
+    display: flex;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+}
+
+.special {
+    display: flex;
+    align-items: center;
+    /* margin-left: 30px; */
+}
+
+.btw {
+    display: flex;
+}
+
+.icon {
+    margin-left: 60px;
+}
+
+.special p {
+    text-align: center;
+}
+
+.tamale {
+    width: 473px;
+    height: 270px;
+}
+
+.heading {
+    text-align: left;
+    margin-left: 40px;
+}
+
+.title {
+    margin-bottom: 10px;
+}
+
+ul,
+li {
+    margin-left: -40px;
+    line-height: 30px;
+}
+
+* {
+    margin: auto auto;
+    padding: 0px 0px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.main-header {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-bottom: 100px;
+}
+
+.logo {
+    margin-bottom: -45px;
+    margin-left: -168px;
+}
+
+.logo-word {
+    position: left;
+    /* bottom: 8px; */
+    margin-left: -154px;
+}
+
+body {
+    background-image: url("./pics/background.png");
+    background-size: contain;
+    background-position: center;
+    color: white;
+    width: 100%;
+}
+
+.layer {
+    background-color: #1e0721;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 180 0px;
+    opacity: 0.8;
+}
+
+h1 {
+    margin-left: 213px;
+    font-weight: lighter;
+    font-size: 47px;
+    font-family: sans-serif;
+}
+
+a {
+    color: white;
+}
+
+a:link {
+    margin-left: 36px;
+    color: white;
+}
+
+.main-body {
+    max-width: 100%;
+    margin: auto auto;
+    height: 230vh;
+}
+
+.firstp {
+    margin: 40px;
+    line-height: 30.5px;
+}
+
+p {
+    line-height: 24px;
+}
+
+.team {
+    width: 100px;
+    height: 100px;
+}
+
+.boss {
+    display: flex;
+    /* flex-wrap: wrap; */
+    /* align-items: flex-start; */
+}
+
+h2 {
+    /* margin-left: 213px; */
+    font-weight: lighter;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.product-footer {
+    align-items: center;
+    display: flex;
+    /* margin-left: 10px; */
+    padding: 10px;
+}
+
+.founder {
+    display: flex;
+    padding: 30px;
+    width: 100%;
+}
+
+.info {
+    width: 100%;
+    display: inline;
+}
+
+.footer-pic {
+    padding: 10px;
+}
+
+.aside {
+    display: flex;
+}
+
+.product {
+    margin-bottom: 30px;
+}
